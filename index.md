@@ -808,14 +808,14 @@ Let’s break it down properly.
 
 To convert raw PDFs/DSLR images/scan files into structured text with:
 
-* tokenization
-* entities
-* tables
-* metadata
-* author info
-* dates
-* outcomes
-* study design cues
+* [tokenization](https://ukb-dt.github.io/throughput-02/)       
+* entities    
+* tables     
+* metadata      
+* author info     
+* dates     
+* outcomes          
+* study design cues  
 
 ### **2. Multi-source literature ingestion**
 
