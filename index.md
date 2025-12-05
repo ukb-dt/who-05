@@ -1,4 +1,4 @@
-# A
+# [A](https://ukb-dt.github.io/fs-dev-02/)
 Here’s the clean way to think about **WHO-India + “AI tools for literature review”** through your invariant:
 
 They’re not trying to “use AI.”
